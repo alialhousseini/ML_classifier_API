@@ -1,0 +1,1 @@
+{"label_legend_inverted": {"0": "ham", "1": "spam"}, "label_legend": {"ham": 0, "spam": 1}, "max_seq_length": 300, "max_words": 280}
